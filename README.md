@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there, welcome to my GitHub profile 👋
 
-<!--
-**ArtemA1ekseev/ArtemA1ekseev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is <b>Artem Alekseev</b>. 
 
-Here are some ideas to get you started:
+I am a beginner in the world of IT development. Now I'm applying for a position java junior developer.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![profile 3d light](./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
+![profile 3d dark](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
