@@ -1,8 +1,8 @@
-## Hi there, welcome to my GitHub profile 👋
+<h2 align="center"> Hi there, welcome to my GitHub profile 👋</h2>
 <table align=center>
   <tr>
     <td align=center><a href="https://discord.com/">💾<br/>Krapivin#2416</td>
-    <td align=center><a href="https://web.telegram.org/z/"><br/>🗃</a>@a1ekseev_artem</td>
+    <td align=center><a href="https://web.telegram.org/z/">🗃<br/></a>@a1ekseev_artem</td>
     <td align=center><a href="a1ekseevartem.ru@gmail.com">📧<br/>a1ekseevartem.ru@gmail.com</a></td>
   </tr>
 </table>
