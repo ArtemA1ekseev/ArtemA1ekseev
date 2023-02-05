@@ -14,5 +14,4 @@ I am a beginner in the world of IT development. Now I'm applying for a position 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![profile 3d light](./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
-![profile 3d dark](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemA1ekseev&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
