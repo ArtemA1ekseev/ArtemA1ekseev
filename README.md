@@ -7,8 +7,6 @@
   </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+!+there+,+I+am+Artem+Alekseev;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)</h3>
-
 I am a beginner in the world of IT development. Now I'm applying for a position java junior developer.
 
 ## Statistics:
