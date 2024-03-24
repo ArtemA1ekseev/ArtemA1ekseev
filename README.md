@@ -1,10 +1,3 @@
-<h2 align="center"> Hi there, welcome to my GitHub profile 👋</h2>
-<table align=center>
-  <tr>
-    <td align=center><a href="a1ekseevartem.ru@gmail.com">Gmail<br/>a1ekseevartem.ru@gmail.com</a></td>
-  </tr>
-</table>
-
 <div id="header" align="center">
   <div id="badges">
     </a>
@@ -15,8 +8,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=ArtemA1ekseev&style=flat-square&color=blue" alt=""/>
 </div>
-
-* Skills:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
@@ -29,7 +20,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Statistics:
 ![codewars](https://www.codewars.com/users/ArtemA1ekseev/badges/large)                                                                                                                                       |<img src="https://leetcode-stats-six.vercel.app/?username=ArtemA1ekseev&theme=dark" />                                                                                                                           | 
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemA1ekseev&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemA1ekseev&show_icons=true&theme=cobalt&layout=compact) |
