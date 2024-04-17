@@ -1,14 +1,3 @@
-<div id="header" align="center">
-  <div id="badges">
-    </a>
-    <a href="https://t.me/a1ekseev_artem">
-      <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-    </a
-    <br>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=ArtemA1ekseev&style=flat-square&color=blue" alt=""/>
-</div>
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
