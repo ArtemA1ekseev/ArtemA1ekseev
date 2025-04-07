@@ -1,7 +1,9 @@
-<h1 align="center">Hello! I'm ArtemA1ekseev</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=20&fontSize=52&animation=twinkling&fontColor=D2EAF5)
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/@a1ekseev_artem)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)]()
+
+### SKILLS
 
 ## 📌Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtemA1ekseev&repo=learning-java-2025&theme=dracula&bg_color=00000000&)](https://github.com/ArtemA1ekseev/learning-java-2025)
